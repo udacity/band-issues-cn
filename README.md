@@ -22,5 +22,6 @@
 
 你可以分配给的优达学城工作人员：
 
-> BAND课程经理：@evestorm
+> BAND课程经理：@kyliewang
+
 
