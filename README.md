@@ -14,14 +14,10 @@
 
 
 
-### 反馈模板
+### 注意事项
 
-![temp](https://raw.githubusercontent.com/udacity/fend-issues-zh/master/beta-test/temp.png)
+如反馈具体内容/文本错误，请提供截图并详细描述。<br>
+如提供关于学习曲线优化/内容难易程度等，则无需提供截图，但请详细描述。
 
-
-
-你可以分配给的优达学城工作人员：
-
-> BAND课程经理：@kyliewang
 
 
